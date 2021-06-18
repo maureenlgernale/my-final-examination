@@ -1,0 +1,1 @@
+> Git and Github are not the same thing. Git is an open-source, version control tool created in 2005 by developers working on the linux operating system; Github is a company founded in 2008 that makes tool which integrate with git. You do not need Github to use git but you cannot use Github without using git.
