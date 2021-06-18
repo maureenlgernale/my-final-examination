@@ -1,0 +1,7 @@
+Name: Maureen Lique Gernale
+Year/sec: BSIT - 2E
+Gender: Female
+Age: 29
+Birthday: February 29, 1992
+Address: Brgy. Zone 7, Bulan, Sosrsogon
+Contact no: 09465560806
